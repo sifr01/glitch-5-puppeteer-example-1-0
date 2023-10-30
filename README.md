@@ -1,1 +1,5 @@
-# glitch-5-puppeteer-example-1-0
+# puppeteer-example
+
+A working example of Puppeteer on Glitch.
+
+Tweet @kaycebasques for discussion.
